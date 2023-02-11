@@ -1,0 +1,42 @@
+body{
+    margin:0;
+    padding:0;
+
+}
+.nav {
+    background-color: black;
+
+    width: 100%;
+    Height:87px;
+    
+}
+
+.nav a{
+    
+  
+    position: absolute;
+    width: 180px;
+    height: 29px;
+    left: 38px;
+    top: 29px;
+
+    font-style: normal;
+    font-weight: 300;
+    font-size: 35px;
+
+    /* identical to box height */
+
+
+    color: #FFFFFF; 
+}
+.btn{
+    background-color:black; 
+    color:white;
+}
+
+.img{
+    height: 450px;
+    width: 500px;
+    padding:0;
+    margin: 0;
+}
